@@ -12,3 +12,7 @@ back.addEventListener("click", () => {
   song.classList.toggle("hide");
   main.classList.toggle("hide");
 });
+
+
+
+
