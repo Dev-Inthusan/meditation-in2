@@ -8,11 +8,13 @@ play.addEventListener("click", () => {
   main.classList.toggle("hide");
 });
 
+
 back.addEventListener("click", () => {
   song.classList.toggle("hide");
   main.classList.toggle("hide");
 });
 
+// let's meditation and keep healthy
 
 
 
